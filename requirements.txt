@@ -1,0 +1,7 @@
+groq
+langchain
+python-dotenv
+langchain-groq
+fastapi
+uvicorn
+langserve
