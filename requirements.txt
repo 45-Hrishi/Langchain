@@ -5,3 +5,14 @@ langchain-groq
 fastapi
 uvicorn
 langserve
+langchain-community==0.3.13
+beautifulsoup4==4.12.3
+langchain-huggingface==0.1.2
+langchain-chroma==0.1.4
+faiss-cpu==1.9.0
+chromadb==0.6.0
+pypdf==5.0.0
+arxiv==2.1.3
+wikipedia==1.4.0
+sentence-transformers==3.3.0
+langgraph==0.2.60
