@@ -22,3 +22,7 @@ tiktoken
 youtube-transcript-api
 pytube
 yt-dlp
+rank_bm25
+lark
+unstructured==0.16.23
+langchain-pinecone
